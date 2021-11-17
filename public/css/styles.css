@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(230, 237, 243);
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    margin: 10px 20px; 
+}
+
+
+.flex{
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+}
+
+.reposta{
+    background-color: white; 
+    border-radius: 5px;
+    padding: 10px 20px; 
+}
